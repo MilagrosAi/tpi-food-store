@@ -9,7 +9,7 @@ Aplicación web para la gestión de pedidos de comidas desarrollada con **FastAP
 ## Enlaces
 
 - **Repositorio de GitHub:** https://github.com/MilagrosAi/tpi-food-store
-- **Video demostrativo (10 a 15 min):** `PEGAR_AQUI_EL_LINK_PUBLICO_DEL_VIDEO`
+- **Video desmotrativo:** `https://youtu.be/kfOHo3cvoQQ
 
 ---
 
